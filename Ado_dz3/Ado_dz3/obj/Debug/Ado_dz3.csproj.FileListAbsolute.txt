@@ -1,0 +1,10 @@
+E:\ItStep\Ado_dz3\Ado_dz3\bin\Debug\Ado_dz3.exe.config
+E:\ItStep\Ado_dz3\Ado_dz3\bin\Debug\Ado_dz3.exe
+E:\ItStep\Ado_dz3\Ado_dz3\bin\Debug\Ado_dz3.pdb
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.csprojAssemblyReference.cache
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.Properties.Resources.resources
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.csproj.GenerateResource.cache
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.csproj.CoreCompileInputs.cache
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.exe
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.pdb
+E:\ItStep\Ado_dz3\Ado_dz3\obj\Debug\Ado_dz3.Form1.resources
